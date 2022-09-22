@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coolzude the founder of OpenMedic
+- 👋 Hi, I’m @coolzude the founder of Quantum Labs and OpenMedic
 - 👀 I’m interested in biotech with AI
 - 🌱 I’m currently learning rust, go, c#
 - 💞️ Not really colaborating right now but feel free to contact me if you want to!
